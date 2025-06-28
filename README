@@ -1,0 +1,26 @@
+# Keep Hat On Script
+
+A simple but essential FiveM script that ensures players keep their **currently worn hat** when entering any vehicle — including cars and bikes. This improves immersion and prevents GTA from auto-removing or auto-applying hats or helmets during vehicle entry animations.
+
+## Features
+
+- Keeps your **equipped hat** when entering vehicles
+
+## Dependencies
+
+- None
+
+## Installation
+
+1. Place the script folder (e.g., `keephat`) in your `resources/` directory.
+
+2. Add the following line to your `server.cfg`:
+   ensure EKS_Hat
+
+3. Restart your server or resource.
+
+
+## DO NOT CHANGE THE NAME OF THE SCRIPT FOLDER - DO NOT CHANGE ANYTHING IN THE FXMANIFEST OR THE SCRIPT WILL NOT WORK
+
+Support:
+https://discord.gg/busQ9w6dqa
